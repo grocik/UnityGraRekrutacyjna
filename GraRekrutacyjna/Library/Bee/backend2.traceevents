@@ -1,0 +1,248 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1710330977041845, "dur":24785, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710330977066642, "dur":70, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710330977066746, "dur":507, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710330977068031, "dur":140, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710330977070536, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1710330977067284, "dur":3342, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710330977070628, "dur":216339, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710330977286968, "dur":511, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710330977287684, "dur":3088, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1710330977067384, "dur":3256, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710330977070643, "dur":10029, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710330977082087, "dur":849, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1710330977082940, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710330977083047, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1710330977083316, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1groc\\Desktop\\GraRekrutacyjna\\GraRekrutacyjna\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710330977083416, "dur":200, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1groc\\Desktop\\GraRekrutacyjna\\GraRekrutacyjna\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710330977083617, "dur":467, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1groc\\Desktop\\GraRekrutacyjna\\GraRekrutacyjna\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710330977084086, "dur":539, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1groc\\Desktop\\GraRekrutacyjna\\GraRekrutacyjna\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710330977084627, "dur":575, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1groc\\Desktop\\GraRekrutacyjna\\GraRekrutacyjna\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710330977085203, "dur":219, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1groc\\Desktop\\GraRekrutacyjna\\GraRekrutacyjna\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710330977085423, "dur":415, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1groc\\Desktop\\GraRekrutacyjna\\GraRekrutacyjna\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710330977085893, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player6432382b-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1710330977082939, "dur":3197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710330977087273, "dur":191629, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710330977285258, "dur":151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710330977285257, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710330977285435, "dur":1478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710330977067439, "dur":3217, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710330977070660, "dur":1423, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710330977072083, "dur":8643, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710330977080743, "dur":337, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1710330977080730, "dur":352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1710330977123921, "dur":2365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1710330977126432, "dur":4980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710330977131528, "dur":4279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710330977135916, "dur":5056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710330977141158, "dur":6654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710330977147914, "dur":6378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710330977154661, "dur":5296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710330977160125, "dur":6124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710330977166396, "dur":16373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710330977182881, "dur":104082, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710330977067433, "dur":3215, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710330977070652, "dur":1482, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710330977072135, "dur":8562, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710330977080717, "dur":275, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1710330977080703, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1710330977099619, "dur":2064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1710330977101779, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1710330977103150, "dur":5813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1710330977109099, "dur":5021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977114221, "dur":2724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977117058, "dur":5037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977122197, "dur":2989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977125626, "dur":4520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977130267, "dur":4101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977134461, "dur":4110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977138676, "dur":4914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977143699, "dur":6730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977150546, "dur":5666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977156354, "dur":5114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977161609, "dur":6584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710330977168302, "dur":15761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1710330977184168, "dur":102898, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710330977067482, "dur":3184, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710330977070670, "dur":1355, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710330977072025, "dur":8711, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710330977080741, "dur":490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1710330977160603, "dur":3435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1710330977164159, "dur":16416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710330977180677, "dur":6790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1710330977187554, "dur":99493, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710330977067520, "dur":3154, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710330977070678, "dur":1543, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710330977072221, "dur":8467, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710330977080711, "dur":190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1710330977080693, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1710330977082618, "dur":5365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1710330977088043, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1710330977089377, "dur":1801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1710330977091311, "dur":442, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1710330977091308, "dur":447, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1710330977091899, "dur":2180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1710330977094154, "dur":214, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1710330977094152, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1710330977094824, "dur":2069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1710330977096971, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1710330977097180, "dur":2259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1710330977099520, "dur":269, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977099517, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977099910, "dur":11314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977111340, "dur":3020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977114471, "dur":3028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977117605, "dur":2810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977120505, "dur":2898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977123499, "dur":4117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977127723, "dur":4582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977132447, "dur":4115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977136699, "dur":4824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977141655, "dur":6118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977147906, "dur":8406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977156416, "dur":6300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977162822, "dur":4841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977167817, "dur":201, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977167814, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977168041, "dur":35142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1710330977203265, "dur":83730, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710330977067555, "dur":3128, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710330977070687, "dur":1435, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710330977072122, "dur":8585, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710330977080712, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1710330977122917, "dur":2321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1710330977125325, "dur":2811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710330977128232, "dur":4655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710330977133000, "dur":4169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710330977137269, "dur":5831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710330977143207, "dur":6210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710330977149553, "dur":6642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710330977156323, "dur":5239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710330977161670, "dur":5518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710330977167322, "dur":15741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710330977183144, "dur":103816, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710330977067594, "dur":3098, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710330977070697, "dur":1385, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710330977072083, "dur":8663, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710330977080760, "dur":371, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1710330977080750, "dur":382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1710330977124829, "dur":2302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1710330977127246, "dur":4323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710330977131673, "dur":3922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710330977135703, "dur":5321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710330977141160, "dur":4235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710330977145501, "dur":7676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710330977153323, "dur":4984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710330977158412, "dur":5192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710330977163740, "dur":5133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710330977168990, "dur":9321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1710330977178472, "dur":984, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710330977179468, "dur":8530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1710330977188071, "dur":98949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710330977067627, "dur":3075, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710330977070706, "dur":1415, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710330977072122, "dur":8594, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710330977080721, "dur":263, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1710330977089455, "dur":2939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1710330977092514, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1710330977093237, "dur":2016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1710330977095332, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1710330977095643, "dur":2117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1710330977097847, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1710330977098543, "dur":3047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1710330977101683, "dur":81, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":8, "ts":1710330977101681, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/GraRekrutacyjna.exe" }}
+,{ "pid":12345, "tid":8, "ts":1710330977101786, "dur":3055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna.exe" }}
+,{ "pid":12345, "tid":8, "ts":1710330977105159, "dur":5488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977110780, "dur":2882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977113767, "dur":2799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977116682, "dur":75, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710330977116763, "dur":3279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977120132, "dur":2795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977123044, "dur":2832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977126019, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710330977126090, "dur":2910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977133582, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710330977129120, "dur":4539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977133781, "dur":4295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977138234, "dur":4846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977143230, "dur":9122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977152461, "dur":5099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977157659, "dur":7118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977164920, "dur":15150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710330977180170, "dur":10227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1710330977190471, "dur":96540, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710330977067665, "dur":3046, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710330977070715, "dur":292, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710330977071008, "dur":9747, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710330977080760, "dur":421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1710330977138267, "dur":2585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1710330977140970, "dur":4173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710330977145253, "dur":7047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710330977152392, "dur":5305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710330977157794, "dur":7359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710330977179215, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710330977165266, "dur":14026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710330977179473, "dur":9172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/level0" }}
+,{ "pid":12345, "tid":9, "ts":1710330977188767, "dur":98233, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710330977067732, "dur":2989, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710330977070722, "dur":9962, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710330977080707, "dur":704, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710330977162147, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710330977162260, "dur":2846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/app.info" }}
+,{ "pid":12345, "tid":10, "ts":1710330977165128, "dur":15391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1710330977187428, "dur":105, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710330977180623, "dur":6968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1710330977187715, "dur":99323, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710330977067772, "dur":2960, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710330977070732, "dur":10042, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710330977080789, "dur":206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":11, "ts":1710330977080776, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1710330977110502, "dur":2698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1710330977113334, "dur":3469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977116913, "dur":3083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977120112, "dur":2779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977122980, "dur":3733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977126863, "dur":4261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977131227, "dur":3817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977135182, "dur":3872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977139142, "dur":4687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977143921, "dur":6214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977150242, "dur":7546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977157897, "dur":5144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977163162, "dur":19052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710330977182298, "dur":104671, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710330977067812, "dur":2925, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710330977070737, "dur":10027, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710330977080769, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1710330977090641, "dur":1724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1710330977092439, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1710330977092651, "dur":2631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1710330977095420, "dur":193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1710330977095418, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1710330977095724, "dur":2128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1710330977097983, "dur":208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977097979, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977098582, "dur":3331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977103113, "dur":7291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977110551, "dur":2604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977113257, "dur":2967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977116330, "dur":2142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977118585, "dur":3832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977122530, "dur":2677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977125315, "dur":3074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977128487, "dur":4493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977133078, "dur":4434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977137615, "dur":4688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977142421, "dur":6055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977148582, "dur":6437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977155121, "dur":4283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977159514, "dur":5663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977165291, "dur":6312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710330977171733, "dur":2171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1710330977174009, "dur":3460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1710330977177598, "dur":569, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710330977178394, "dur":5643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1groc/Desktop/testgra/GraRekrutacyjna_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":12, "ts":1710330977184117, "dur":102938, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710330977294890, "dur":1374, "ph":"X", "name": "ProfilerWriteOutput" }
+,
